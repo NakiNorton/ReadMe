@@ -23,13 +23,13 @@ ReadMe is a web application we built that connects users to various New York Tim
 
 ## Project in Action
 
-A user can select and remove books to a reading list:
+#### A user can select and remove books to a reading list:
 <img src ='readme-assets/ReadMe_add:remove.gif' width=680> 
 
-A user can be directed to a site to purchase book:
+#### A user can be directed to a site to purchase book:
 <img src ='readme-assets/ReadMe_amazon.gif' width=680> 
 
-A user can search for a book and view book details:
+#### A user can search for a book and view book details:
 <img src ='readme-assets/ReadMe_search.gif' width=680> 
 
 ## Contributors:
