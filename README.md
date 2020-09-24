@@ -30,7 +30,7 @@ ReadMe is a web application we built that connects users to various New York Tim
 <img src ='readme-assets/Readme_amazon.gif' width=680> 
 
 #### A user can search for a book and view book details:
-<img src ='readme-assets/Readme_search.gif' width=680> 
+<img src ='readme-assets/ReadMe_search.gif' width=680> 
 
 ## Contributors:
 Amy Karanze: [GitHub](https://github.com/amykarnaze) | [LinkedIn](https://www.linkedin.com/in/amy-karnaze-ba94b917/) <br>
